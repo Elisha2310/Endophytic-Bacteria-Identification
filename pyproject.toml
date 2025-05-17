@@ -1,0 +1,29 @@
+[Isolation and Molecular Identification of Endophytic Bacteria from Drought tolerant Tylosema esculentum]
+name = "endophyte-id"
+version = "0.1.0"
+description = "Endophytic bacteria identification pipeline"
+authors = [
+    {name = "Your Name", email = "sinyinzaelisha@gmail.com"},
+]
+dependencies = [
+    "biopython>=1.80",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+    "scikit-learn>=1.2",
+    "seaborn>=0.12",
+    "qiime2>=2023.2"  # For microbiome analysis
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "jupyter>=1.0",
+    "black>=23.0",
+    "flake8>=6.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
