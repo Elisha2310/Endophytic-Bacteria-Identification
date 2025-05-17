@@ -18,4 +18,4 @@ def analyze_sequences(input_file):
 
 if _name_ == "_main_":
     analyze_sequences("../data/sample_sequences.fasta")
-added initial project structure
+Added initial project structure
