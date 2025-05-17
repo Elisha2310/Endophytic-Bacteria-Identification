@@ -3,7 +3,7 @@ name = "endophyte-id"
 version = "0.1.0"
 description = "Endophytic bacteria identification pipeline"
 authors = [
-    {name = "Your Name", email = "sinyinzaelisha@gmail.com"},
+    {name = "Elisha Sinyinza", email = "sinyinzaelisha@gmail.com"},
 ]
 dependencies = [
     "biopython>=1.80",
