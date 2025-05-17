@@ -1,6 +1,6 @@
-# Endophytic Bacteria Identification Project
+# Endophytic Bacteria Identification Project Tylosema Esculentum
 ## Project Description
-This project aims to identify endophytic bacteria from plant samples using molecular and bioinformatics approaches.
+This project aims to identify endophytic bacteria from the drought tolerant plant, tylosema esculentum, commonly called marama bean using molecular and bioinformatics approaches.
 
 ## Methods
 1. Sample collection and surface sterilization
