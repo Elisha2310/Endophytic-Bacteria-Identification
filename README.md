@@ -1,7 +1,7 @@
 # Endophytic Bacteria Identification Project
 
 ## Project Description
-This project aims to identify endophytic bacteria from plant samples using molecular and bioinformatics approaches.
+This project aims to identify endophytic bacteria from Tylosema esculentum using molecular and bioinformatics approaches.
 
 ## Methods
 1. Sample collection and surface sterilization
